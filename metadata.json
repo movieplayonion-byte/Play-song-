@@ -1,0 +1,6 @@
+{
+  "name": "Play Song",
+  "description": "Play Song - Instant YouTube playlist launcher and share sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
